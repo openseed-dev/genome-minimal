@@ -1,0 +1,12 @@
+{
+  "name": "minimal",
+  "version": "0.1.0",
+  "description": "Bare-bones creature loop. No memory, no dreams — the creature discovers its own persistence strategies.",
+  "author": "openseed",
+  "license": "MIT",
+  "tags": ["minimal", "experimental", "emergent"],
+  "requires": { "openseed": ">=0.0.1" },
+  "tabs": [
+    { "id": "purpose", "label": "purpose", "file": "PURPOSE.md", "type": "markdown" }
+  ]
+}
